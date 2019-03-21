@@ -20,7 +20,7 @@
 	<preferance name="android-installLocation" value="auto" />
 	<preference name="permissions" value="INTERNET" />
 	
-	<plugin name="cordova-plugin-devive" spec="~1.1.4" />
+	<plugin name="cordova-plugin-device" spec="~1.1.4" />
 	<plugin name="cordova-plugin-vibration" spec="~2.1.3" /> 
 	<plugin name="cordova-plugin-dialogs" spec="~1.3.1" />	
 	
